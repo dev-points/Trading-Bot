@@ -1,7 +1,7 @@
 
 📌 Overview
 This project is an automated cryptocurrency trading bot for the **MEXC exchange**.  
-It uses **RSI (Relative Strength Index)** and **Parabolic SAR** indicators to make buy and sell decisions and can be fully controlled and monitored via **Telegram commands**.
+It uses **RSI** and **Parabolic SAR** indicators to make buy and sell decisions and can be fully controlled and monitored via **Telegram commands**.
 
 The bot supports:
 - Automated trading
